@@ -120,6 +120,7 @@
             this.BtnIngresar.TabIndex = 8;
             this.BtnIngresar.Text = "Ingresar";
             this.BtnIngresar.UseVisualStyleBackColor = true;
+            this.BtnIngresar.Click += new System.EventHandler(this.BtnIngresar_Click);
             // 
             // BtnAgregarAdmin
             // 
@@ -134,7 +135,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(585, 304);
+            this.ClientSize = new System.Drawing.Size(585, 265);
             this.Controls.Add(this.BtnAgregarAdmin);
             this.Controls.Add(this.BtnIngresar);
             this.Controls.Add(this.BtnRegistrarse);

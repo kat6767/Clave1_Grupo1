@@ -17,6 +17,7 @@ namespace Clave1___Grupo1
         public static int AgregarUsuario(Usuario usuario)
         {
             int retorna = 0;
+
             using (MySqlConnection conexion = ManejoBD.ObtenerConexion())
             {
                 //query para crear un nuevo usuario
@@ -36,10 +37,15 @@ namespace Clave1___Grupo1
                     comandoCliente.Parameters.AddWithValue("@UsuarioID", usuarioId);
 
                     comandoCliente.ExecuteNonQuery();
-                }
+
+                }//si es del tipo veterinario, lo añadimos a la tabla correspondiente
                 else if (usuario.rol == "Veterinario")
                 {
+                    string queryVeterinario = "UPDATE veterinario SET Nombre = '" + usuario.Nombre + "',  Especialidad = '" + usuario.Especialidad + "' WHERE UsuarioID = @UsuarioID";
+                    MySqlCommand comandoVeterinario = new MySqlCommand(queryVeterinario, conexion);
+                    comandoVeterinario.Parameters.AddWithValue("@UsuarioID", usuarioId);
 
+                    comandoVeterinario.ExecuteNonQuery();
                 }
 
                 conexion.Close();

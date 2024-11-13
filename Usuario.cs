@@ -15,6 +15,8 @@ namespace Clave1___Grupo1
         public string Nombre { get; set; }
         public string Direccion { get; set; }
         public int Telefono { get; set; }
+
+        public string Especialidad { get; set; }
     }
 
     /*

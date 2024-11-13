@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:formregistrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\manejobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\manejobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:manejobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|c:\\users\\katyg\\onedrive\\desktop\\clave1___grupo1\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684759B-99A2-4943-9BA5-76D92D900D79}|Clave1___Grupo1.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\Usuario.cs",
               "RelativeDocumentMoniker": "Usuario.cs",
               "ToolTip": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\Usuario.cs",
               "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T01:01:40.531Z",
               "IsPinned": true,
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UsuarioDAL.cs",
               "DocumentMoniker": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\UsuarioDAL.cs",
               "RelativeDocumentMoniker": "UsuarioDAL.cs",
               "ToolTip": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\UsuarioDAL.cs",
               "RelativeToolTip": "UsuarioDAL.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACEAAACNAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T01:49:17.862Z",
               "IsPinned": true,
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ManejoBD.cs",
               "DocumentMoniker": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\ManejoBD.cs",
               "RelativeDocumentMoniker": "ManejoBD.cs",
               "ToolTip": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\ManejoBD.cs",
               "RelativeToolTip": "ManejoBD.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T00:53:29.985Z",
               "IsPinned": true,
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FormRegistroCliente.cs",
               "DocumentMoniker": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\FormRegistroCliente.cs",
               "RelativeDocumentMoniker": "FormRegistroCliente.cs",
               "ToolTip": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\FormRegistroCliente.cs",
               "RelativeToolTip": "FormRegistroCliente.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwCQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowE0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T00:52:41.375Z",
               "EditorCaption": ""
@@ -115,14 +115,14 @@
               "RelativeDocumentMoniker": "FormInicio.cs",
               "ToolTip": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\FormInicio.cs",
               "RelativeToolTip": "FormInicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T00:39:02.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FormInicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\katyg\\OneDrive\\Desktop\\Clave1___Grupo1\\FormInicio.cs",
               "RelativeDocumentMoniker": "FormInicio.cs",

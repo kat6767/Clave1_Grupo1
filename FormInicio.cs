@@ -22,5 +22,10 @@ namespace Clave1___Grupo1
             FormRegistroCliente formRegistroCliente = new FormRegistroCliente();
             formRegistroCliente.ShowDialog();
         }
+
+        private void BtnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
